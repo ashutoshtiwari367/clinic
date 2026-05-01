@@ -95,13 +95,13 @@ tailwind.config = {
       <!-- Desktop Nav Links -->
       <?php
       $navLinks = [
-        ['href'=>'/clinic/index.php',       'label'=>'Home',        'id'=>'home'],
-        ['href'=>'/clinic/about.php',        'label'=>'About Us',    'id'=>'about'],
-        ['href'=>'/clinic/doctors.php',      'label'=>'Doctors',     'id'=>'doctors'],
-        ['href'=>'/clinic/services.php',     'label'=>'Services',    'id'=>'services'],
-        ['href'=>'/clinic/gallery.php',      'label'=>'Gallery',     'id'=>'gallery'],
-        ['href'=>'/clinic/appointment.php',  'label'=>'Appointment', 'id'=>'appointment'],
-        ['href'=>'/clinic/contact.php',      'label'=>'Contact',     'id'=>'contact'],
+        ['href'=>'/index.php',       'label'=>'Home',        'id'=>'home'],
+        ['href'=>'/about.php',        'label'=>'About Us',    'id'=>'about'],
+        ['href'=>'/doctors.php',      'label'=>'Doctors',     'id'=>'doctors'],
+        ['href'=>'/services.php',     'label'=>'Services',    'id'=>'services'],
+        ['href'=>'/gallery.php',      'label'=>'Gallery',     'id'=>'gallery'],
+        ['href'=>'/appointment.php',  'label'=>'Appointment', 'id'=>'appointment'],
+        ['href'=>'/contact.php',      'label'=>'Contact',     'id'=>'contact'],
       ];
       ?>
       <div class="hidden lg:flex items-center gap-1">
