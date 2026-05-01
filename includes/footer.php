@@ -5,9 +5,9 @@
       
       <!-- Brand & About -->
       <div class="reveal">
-        <a href="/clinic/index.php" class="flex items-center gap-3 mb-6 group">
+        <a href="/index.php" class="flex items-center gap-3 mb-6 group">
           <div class="w-16 h-16 flex items-center justify-center bg-white rounded-xl p-1 group-hover:scale-110 transition-transform">
-            <img src="/clinic/assets/img/logo.jpeg" alt="Shri Balaji Clinic" class="w-full h-full object-contain"/>
+            <img src="/assets/img/logo.jpeg" alt="Shri Balaji Clinic" class="w-full h-full object-contain"/>
           </div>
           <div>
             <div class="font-poppins font-bold text-xl text-white leading-tight">Shri Balaji</div>
@@ -36,11 +36,11 @@
           <span class="w-2 h-2 bg-saffron-500 mr-2 rounded-full"></span> Quick Links
         </h4>
         <ul class="space-y-3">
-          <li><a href="/clinic/about.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> About Us</a></li>
-          <li><a href="/clinic/doctors.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Our Doctors</a></li>
-          <li><a href="/clinic/services.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> All Services</a></li>
-          <li><a href="/clinic/gallery.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Clinic Gallery</a></li>
-          <li><a href="/clinic/appointment.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Book Appointment</a></li>
+          <li><a href="/about.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> About Us</a></li>
+          <li><a href="/doctors.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Our Doctors</a></li>
+          <li><a href="/services.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> All Services</a></li>
+          <li><a href="/gallery.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Clinic Gallery</a></li>
+          <li><a href="/appointment.php" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Book Appointment</a></li>
         </ul>
       </div>
 
@@ -50,11 +50,11 @@
           <span class="w-2 h-2 bg-saffron-500 mr-2 rounded-full"></span> Our Services
         </h4>
         <ul class="space-y-3">
-          <li><a href="/clinic/services.php#physiotherapy" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Physiotherapy</a></li>
-          <li><a href="/clinic/services.php#ayurvedic" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Ayurvedic Treatment</a></li>
-          <li><a href="/clinic/services.php#medicine" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> General Medicine</a></li>
-          <li><a href="/clinic/services.php#dental" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Dental Care</a></li>
-          <li><a href="/clinic/services.php#skin" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Skin & Laser Treatment</a></li>
+          <li><a href="/services.php#physiotherapy" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Physiotherapy</a></li>
+          <li><a href="/services.php#ayurvedic" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Ayurvedic Treatment</a></li>
+          <li><a href="/services.php#medicine" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> General Medicine</a></li>
+          <li><a href="/services.php#dental" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Dental Care</a></li>
+          <li><a href="/services.php#skin" class="text-sky-200 hover:text-saffron-400 transition-colors flex items-center group"><svg class="w-4 h-4 mr-2 text-sky-600 group-hover:text-saffron-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg> Skin & Laser Treatment</a></li>
         </ul>
       </div>
 
@@ -128,7 +128,7 @@
 </div>
 
 <!-- Main JS -->
-<script src="/clinic/assets/js/main.js"></script>
+<script src="/assets/js/main.js"></script>
 
 </body>
 </html>

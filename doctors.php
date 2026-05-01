@@ -35,7 +35,7 @@ include 'includes/header.php';
           </p>
           
           <div class="flex items-center gap-4 border-t border-gray-100 pt-6">
-            <a href="/clinic/appointment.php?doctor=ritesh" class="btn-primary px-6 py-2.5 rounded-xl text-white font-semibold flex items-center gap-2">
+            <a href="/appointment.php?doctor=ritesh" class="btn-primary px-6 py-2.5 rounded-xl text-white font-semibold flex items-center gap-2">
               Book Consultation
             </a>
             <div class="flex gap-1 text-yellow-400 text-lg">
@@ -50,7 +50,7 @@ include 'includes/header.php';
     <div class="bg-white rounded-[2rem] shadow-xl overflow-hidden reveal">
       <div class="flex flex-col md:flex-row-reverse">
         <div class="md:w-1/3 h-80 md:h-auto">
-          <img src="/clinic/assets/img/dr_arti.jpeg" alt="Dr. Arti Tiwari" class="w-full h-full object-cover object-top"/>
+          <img src="/assets/img/dr_arti.jpeg" alt="Dr. Arti Tiwari" class="w-full h-full object-cover object-top"/>
         </div>
         <div class="md:w-2/3 p-8 md:p-12 flex flex-col justify-center">
           <div class="text-saffron-500 font-medium text-sm mb-1 tracking-widest uppercase">Senior Specialist</div>
@@ -67,7 +67,7 @@ include 'includes/header.php';
           </p>
           
           <div class="flex items-center gap-4 border-t border-gray-100 pt-6">
-            <a href="/clinic/appointment.php?doctor=arti" class="btn-primary px-6 py-2.5 rounded-xl text-white font-semibold flex items-center gap-2">
+            <a href="/appointment.php?doctor=arti" class="btn-primary px-6 py-2.5 rounded-xl text-white font-semibold flex items-center gap-2">
               Book Consultation
             </a>
             <div class="flex gap-1 text-yellow-400 text-lg">

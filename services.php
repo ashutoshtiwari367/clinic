@@ -30,7 +30,7 @@ include 'includes/header.php';
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Neck & Back Pain Management</li>
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Post-Stroke Recovery Therapy</li>
         </ul>
-        <a href="/clinic/appointment.php?service=physio" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Book Session</a>
+        <a href="/appointment.php?service=physio" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Book Session</a>
       </div>
     </div>
 
@@ -50,7 +50,7 @@ include 'includes/header.php';
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Immunity Boosting & Detoxification</li>
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Joint Pain & Arthritis Care</li>
         </ul>
-        <a href="/clinic/appointment.php?service=ayurveda" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Consult Doctor</a>
+        <a href="/appointment.php?service=ayurveda" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Consult Doctor</a>
       </div>
     </div>
 
@@ -70,7 +70,7 @@ include 'includes/header.php';
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Cosmetic Dentistry & Teeth Whitening</li>
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Dental Implants & Aligners</li>
         </ul>
-        <a href="/clinic/appointment.php?service=dental" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Book Checkup</a>
+        <a href="/appointment.php?service=dental" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Book Checkup</a>
       </div>
     </div>
 
@@ -90,7 +90,7 @@ include 'includes/header.php';
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Acne & Scar Treatment</li>
           <li class="flex items-center gap-3"><svg class="w-5 h-5 text-saffron-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Anti-Aging & Skin Rejuvenation</li>
         </ul>
-        <a href="/clinic/appointment.php?service=skin" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Consult Dermatologist</a>
+        <a href="/appointment.php?service=skin" class="btn-primary inline-flex px-6 py-2.5 rounded-xl text-white font-semibold text-sm">Consult Dermatologist</a>
       </div>
     </div>
 

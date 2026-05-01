@@ -29,10 +29,10 @@ include 'includes/header.php';
         </p>
         
         <div class="hero-text-4 flex flex-wrap gap-4">
-          <a href="/clinic/appointment.php" class="btn-primary px-8 py-3.5 rounded-xl text-white font-semibold font-poppins text-lg flex items-center gap-2">
+          <a href="/appointment.php" class="btn-primary px-8 py-3.5 rounded-xl text-white font-semibold font-poppins text-lg flex items-center gap-2">
             Book Appointment <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
           </a>
-          <a href="/clinic/services.php" class="px-8 py-3.5 rounded-xl bg-white text-sky-700 border-2 border-sky-100 hover:border-sky-300 font-semibold font-poppins text-lg transition-all hover:bg-sky-50 flex items-center gap-2 shadow-sm">
+          <a href="/services.php" class="px-8 py-3.5 rounded-xl bg-white text-sky-700 border-2 border-sky-100 hover:border-sky-300 font-semibold font-poppins text-lg transition-all hover:bg-sky-50 flex items-center gap-2 shadow-sm">
             Our Services
           </a>
         </div>
@@ -57,7 +57,7 @@ include 'includes/header.php';
       <!-- Hero Image -->
       <div class="hero-text-2 relative lg:h-[600px] flex justify-center items-center">
         <div class="absolute inset-0 bg-gradient-to-tr from-sky-200 to-saffron-100 rounded-[3rem] rotate-3 scale-105 opacity-50 blur-lg animate-pulse-slow"></div>
-        <img src="/clinic/assets/img/clinic_hero.png" alt="Modern Clinic Environment" class="relative z-10 w-full h-[400px] lg:h-full object-cover rounded-[3rem] shadow-2xl border-4 border-white object-top"/>
+        <img src="/assets/img/clinic_hero.png" alt="Modern Clinic Environment" class="relative z-10 w-full h-[400px] lg:h-full object-cover rounded-[3rem] shadow-2xl border-4 border-white object-top"/>
         
         <!-- Floating Elements -->
         <div class="absolute top-10 -left-6 z-20 bg-white p-4 rounded-2xl shadow-xl floating-badge flex items-center gap-4">
@@ -112,7 +112,7 @@ include 'includes/header.php';
         <p class="text-slate-600 mb-4 text-sm leading-relaxed">
           Conveniently located in the heart of Kanpur. We provide a clean, safe, and modern environment for all your healthcare needs.
         </p>
-        <a href="/clinic/contact.php" class="text-saffron-500 font-semibold hover:text-saffron-600 flex items-center gap-1 transition-colors">
+        <a href="/contact.php" class="text-saffron-500 font-semibold hover:text-saffron-600 flex items-center gap-1 transition-colors">
           Get Directions <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
         </a>
       </div>
@@ -152,7 +152,7 @@ include 'includes/header.php';
         </div>
         <h3 class="text-xl font-bold font-poppins text-slate-800 mb-3 relative z-10">Physiotherapy</h3>
         <p class="text-slate-600 mb-6 text-sm relative z-10">Expert rehabilitation for sports injuries, back pain, post-surgical recovery, and mobility issues.</p>
-        <a href="/clinic/services.php#physio" class="text-sky-600 font-semibold flex items-center gap-2 group relative z-10">
+        <a href="/services.php#physio" class="text-sky-600 font-semibold flex items-center gap-2 group relative z-10">
           Read More <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
         </a>
       </div>
@@ -164,7 +164,7 @@ include 'includes/header.php';
         </div>
         <h3 class="text-xl font-bold font-poppins text-slate-800 mb-3 relative z-10">Ayurvedic Treatment</h3>
         <p class="text-slate-600 mb-6 text-sm relative z-10">Holistic natural healing for chronic diseases, immunity boosting, and lifestyle disorders.</p>
-        <a href="/clinic/services.php#ayurvedic" class="text-green-600 font-semibold flex items-center gap-2 group relative z-10">
+        <a href="/services.php#ayurvedic" class="text-green-600 font-semibold flex items-center gap-2 group relative z-10">
           Read More <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
         </a>
       </div>
@@ -176,7 +176,7 @@ include 'includes/header.php';
         </div>
         <h3 class="text-xl font-bold font-poppins text-slate-800 mb-3 relative z-10">Skin Care & Laser</h3>
         <p class="text-slate-600 mb-6 text-sm relative z-10">Advanced dermatological treatments, acne solutions, and painless laser hair removal.</p>
-        <a href="/clinic/services.php#skin" class="text-saffron-500 font-semibold flex items-center gap-2 group relative z-10">
+        <a href="/services.php#skin" class="text-saffron-500 font-semibold flex items-center gap-2 group relative z-10">
           Read More <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
         </a>
       </div>
@@ -184,7 +184,7 @@ include 'includes/header.php';
     </div>
     
     <div class="mt-12 text-center reveal">
-      <a href="/clinic/services.php" class="inline-flex items-center justify-center px-8 py-3 border border-sky-300 text-sky-700 font-semibold rounded-xl hover:bg-sky-50 transition-colors">
+      <a href="/services.php" class="inline-flex items-center justify-center px-8 py-3 border border-sky-300 text-sky-700 font-semibold rounded-xl hover:bg-sky-50 transition-colors">
         View All Services
       </a>
     </div>
@@ -203,7 +203,7 @@ include 'includes/header.php';
         <h2 class="text-3xl md:text-4xl font-bold font-poppins text-slate-800 mb-4">Meet Our Specialists</h2>
         <p class="text-slate-600">Highly qualified doctors dedicated to providing you with the best possible medical care.</p>
       </div>
-      <a href="/clinic/doctors.php" class="hidden md:inline-flex btn-primary px-6 py-2.5 rounded-xl text-white font-semibold shadow-md">All Doctors</a>
+      <a href="/doctors.php" class="hidden md:inline-flex btn-primary px-6 py-2.5 rounded-xl text-white font-semibold shadow-md">All Doctors</a>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
@@ -223,7 +223,7 @@ include 'includes/header.php';
               <span class="px-2.5 py-1 bg-gray-100 text-gray-700 text-xs font-semibold rounded-md">Gen. Medicine</span>
             </div>
             <p class="text-slate-600 text-sm mb-6">Expert in pain management, post-injury rehabilitation, and holistic ayurvedic treatments.</p>
-            <a href="/clinic/appointment.php?doctor=ritesh" class="text-sky-600 font-semibold hover:text-sky-700 flex items-center gap-2">
+            <a href="/appointment.php?doctor=ritesh" class="text-sky-600 font-semibold hover:text-sky-700 flex items-center gap-2">
               Book Appointment <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
             </a>
           </div>
@@ -234,7 +234,7 @@ include 'includes/header.php';
       <div class="doctor-card bg-white rounded-[2rem] shadow-xl reveal-right">
         <div class="flex flex-col md:flex-row h-full">
           <div class="md:w-2/5 h-64 md:h-auto overflow-hidden rounded-t-[2rem] md:rounded-l-[2rem] md:rounded-tr-none">
-            <img src="/clinic/assets/img/dr_arti.jpeg" alt="Dr. Arti Tiwari" class="w-full h-full object-cover object-top"/>
+            <img src="/assets/img/dr_arti.jpeg" alt="Dr. Arti Tiwari" class="w-full h-full object-cover object-top"/>
           </div>
           <div class="p-8 md:w-3/5 flex flex-col justify-center">
             <div class="text-saffron-500 font-medium text-sm mb-1">Senior Specialist</div>
@@ -245,7 +245,7 @@ include 'includes/header.php';
               <span class="px-2.5 py-1 bg-purple-100 text-purple-700 text-xs font-semibold rounded-md">Laser Trt.</span>
             </div>
             <p class="text-slate-600 text-sm mb-6">Specializing in advanced cosmetology, painless dentistry, and laser hair reduction.</p>
-            <a href="/clinic/appointment.php?doctor=arti" class="text-sky-600 font-semibold hover:text-sky-700 flex items-center gap-2">
+            <a href="/appointment.php?doctor=arti" class="text-sky-600 font-semibold hover:text-sky-700 flex items-center gap-2">
               Book Appointment <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
             </a>
           </div>
@@ -255,7 +255,7 @@ include 'includes/header.php';
     </div>
     
     <div class="mt-8 text-center md:hidden reveal">
-      <a href="/clinic/doctors.php" class="btn-primary inline-flex px-8 py-3 rounded-xl text-white font-semibold">View All Doctors</a>
+      <a href="/doctors.php" class="btn-primary inline-flex px-8 py-3 rounded-xl text-white font-semibold">View All Doctors</a>
     </div>
   </div>
 </section>
@@ -269,7 +269,7 @@ include 'includes/header.php';
     <h2 class="text-3xl md:text-5xl font-bold font-poppins text-white mb-6">Need a Medical Consultation?</h2>
     <p class="text-sky-200 text-lg mb-10">Don't delay your health. Schedule a visit with our expert doctors today and take the first step towards a healthier life.</p>
     <div class="flex flex-col sm:flex-row justify-center gap-4">
-      <a href="/clinic/appointment.php" class="bg-white text-sky-700 px-8 py-4 rounded-xl font-bold font-poppins text-lg hover:bg-sky-50 transition-colors shadow-xl">
+      <a href="/appointment.php" class="bg-white text-sky-700 px-8 py-4 rounded-xl font-bold font-poppins text-lg hover:bg-sky-50 transition-colors shadow-xl">
         Book Appointment Online
       </a>
       <a href="tel:+919936443366" class="btn-primary px-8 py-4 rounded-xl font-bold font-poppins text-white text-lg shadow-xl flex items-center justify-center gap-2">

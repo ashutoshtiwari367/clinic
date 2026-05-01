@@ -48,7 +48,7 @@ tailwind.config = {
   }
 }
 </script>
-<link rel="stylesheet" href="/clinic/assets/css/custom.css"/>
+<link rel="stylesheet" href="/assets/css/custom.css"/>
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
@@ -82,9 +82,9 @@ tailwind.config = {
     <div class="flex items-center justify-between h-18 py-3">
 
       <!-- Logo -->
-      <a href="/clinic/index.php" class="flex items-center gap-3 group">
+      <a href="/index.php" class="flex items-center gap-3 group">
         <div class="w-12 h-12 flex items-center justify-center group-hover:scale-110 transition-transform">
-          <img src="/clinic/assets/img/logo.jpeg" alt="Shri Balaji Clinic" class="w-full h-full object-contain"/>
+          <img src="/assets/img/logo.jpeg" alt="Shri Balaji Clinic" class="w-full h-full object-contain"/>
         </div>
         <div>
           <div class="font-poppins font-bold text-base leading-tight text-sky-700">Shri Balaji</div>
@@ -114,7 +114,7 @@ tailwind.config = {
             <?= $link['label'] ?>
           </a>
         <?php endforeach; ?>
-        <a href="/clinic/appointment.php"
+        <a href="/appointment.php"
            class="btn-primary ml-2 px-5 py-2.5 rounded-xl text-white text-sm font-semibold font-poppins">
           📅 Book Now
         </a>
@@ -141,7 +141,7 @@ tailwind.config = {
           </a>
         <?php endforeach; ?>
         <div class="px-4 pt-1">
-          <a href="/clinic/appointment.php"
+          <a href="/appointment.php"
              class="btn-primary block text-center px-5 py-3 rounded-xl text-white text-sm font-semibold font-poppins">
             📅 Book Appointment
           </a>
