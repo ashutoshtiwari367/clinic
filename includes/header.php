@@ -84,7 +84,7 @@ tailwind.config = {
       <!-- Logo -->
       <a href="/index.php" class="flex items-center gap-3 group">
         <div class="w-12 h-12 flex items-center justify-center group-hover:scale-110 transition-transform">
-          <img src="/assets/img/logo.jpeg" alt="Shri Balaji Clinic" class="w-full h-full object-contain"/>
+          <img src="./assets/img/logo.jpeg" alt="Shri Balaji Clinic" class="w-full h-full object-contain"/>
         </div>
         <div>
           <div class="font-poppins font-bold text-base leading-tight text-sky-700">Shri Balaji</div>
